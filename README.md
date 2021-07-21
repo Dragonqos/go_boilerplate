@@ -1,4 +1,4 @@
-# MS-GO-channel
+# GO-Boilerplate
 
 ## Using with Docker
 Start production enviroment
@@ -33,7 +33,7 @@ $ cd /api
 $ go test ./...
 ```
 
-development: http://go-channel-local.com:8200/api/
+development: http://go-local.com:8200/api/
 production:  not ready 
 
 
